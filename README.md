@@ -90,12 +90,6 @@ Press the `ESC` key to quit the webcam video window in all scripts.
 
 ---
 
-## License
-
-This project is licensed under the Apache 2.0 License.
-
----
-
 ## Acknowledgments
 
 - MediaPipe by Google
