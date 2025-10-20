@@ -1,6 +1,7 @@
 # Real-Time Pose and Object Detection Projects
 
 This File is needed for the caffe model (https://limewire.com/d/y9b1m#GYUkne1Xc4)
+- Download and extract it into the the folder with the projects
 
 
 This repository contains three Python scripts demonstrating real-time computer vision applications using OpenCV, MediaPipe, and deep learning models. Each script processes webcam video input for distinctive functionalities such as pose estimation, holistic landmark detection, and object detection with motion-triggered image replacement.
